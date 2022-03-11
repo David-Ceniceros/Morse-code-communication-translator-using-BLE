@@ -1,2 +1,2 @@
 # Morse-code-communication-translator-using-BLE
-This project will consist of programming two Arduino NANO 33 BLE board to communicate and display an output text message using Morse code.
+This project will consist of programming two Arduino NANO 33 BLE board to communicate and display an output text message using Morse code. Both board will be able to communicate with one another using BLE. Each board will be contain one button and two LED lights which will be used for communication. One LED will be utilized to indicate to the user when the button has been pressed, the other LED will be used to indicate when the other user has pressed a button. I will program both boards to translate the message from the other users to display the message on an output display.
